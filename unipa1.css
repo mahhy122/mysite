@@ -1,0 +1,28 @@
+.mail{
+  font-family: arial;
+  font-size: 24px;
+  margin-top:50px;
+  margin-left: 200px;
+  margin-right:500px;
+  width: 350px;
+  height: 200px;
+}
+h4 {
+  font-family: arial;
+  font-size: 24px;
+  margin-top:50px;
+  margin-left: 200px;
+  margin-bottom: 50px;
+  width: 350px;
+  height: 120px;
+  
+}
+
+h3{
+  /* 水平方向の中央揃え */
+  text-align: center;
+}
+h2{
+  /* 水平方向の中央揃え */
+  text-align: center;
+}
